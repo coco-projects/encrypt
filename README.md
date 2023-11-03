@@ -40,7 +40,7 @@
 You can install the package via composer:
 
 ```bash
-composer require coco-project/encrypt --no-dev
+composer require coco-project/encrypt
 ```
 
 ## Testing
