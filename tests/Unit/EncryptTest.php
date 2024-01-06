@@ -4,7 +4,6 @@
 
     namespace Coco\Tests\Unit;
 
-    use Coco\base64\Base64;
     use Coco\encrypt\Encrypt;
     use PHPUnit\Framework\TestCase;
 
